@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ryanNupp
+- 📚 Computer Science student and aspiring Software Engineer
 - 🌱 I’m currently learning C++, Java, and Web Devleopment tools such as HTML and CSS.
 - 📫 How to reach me: ryan.nuppenau02@gmail.com
 

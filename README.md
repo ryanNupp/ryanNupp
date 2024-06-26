@@ -8,8 +8,7 @@
 -    Developing Android apps with Java in Android Studio.
 -    School projects in C++, Java, and IBM 370 mainframe ASSIST Assembler Language.
 -    
-- 🌱 Currently learning:
--    Web development JavaScript frameworks React and Vue
+- 🌱 Currently learning: Go, React, and Vue
 - 
 - 📫 How to reach me: ryan.nuppenau02@gmail.com
 

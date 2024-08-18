@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ryanNupp, Computer Science student at NIU, graduating Spring 2025
+- 👋 Hi, I’m @ryanNupp
+-    Computer Science student at Northern Illinois University, graduating Spring 2025
 - 
 - 📚 Experience with:
 -    Web development with Node, Express, and React

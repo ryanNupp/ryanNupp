@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @ryanNupp, Computer Science student at NIU, graduating Spring 2025
 - 
 - 📚 Experience with:
--    Web development using HTML, CSS, and JavaScript.
--    Using PHP on web projects to handle backend.
--    Setting up and using databases with SQL.
--    Developing iOS apps with Swift in Xcode.
--    Developing Android apps with Java in Android Studio.
--    School projects in C++, Java, and IBM 370 mainframe ASSIST Assembler Language.
+-    Web development with Node, Express, and React
+-    XCode & Android Studio for mobile app development
+-    School projects in C++, Java, Swift and IBM 370 mainframe ASSIST Assembler Language.
 -    
-- 🌱 Currently learning: Go, React, and Vue
+- 🌱 Currently working on: 
 - 
 - 📫 How to reach me: ryan.nuppenau02@gmail.com
 

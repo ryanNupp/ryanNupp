@@ -6,7 +6,7 @@
 -    XCode & Android Studio for mobile app development
 -    School projects in C++, Java, Swift and IBM 370 mainframe ASSIST Assembler Language.
 -    
-- 🌱 Currently working on: React frontend Node/Express backend music streamer service
+- 🌱 Currently learning: C# and .NET development
 - 
 - 📫 How to reach me: ryan.nuppenau02@gmail.com
 
